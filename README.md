@@ -4,7 +4,7 @@ After three years of collective effort, we are pleased to present the results of
 
 The current phase of the Task Force is based on the assumption that all this information should be or could be collected and presented in your cataloging and collection management system, in compliance with the FIAF Cataloguing Manual and CEN 15907.
 
-[Here](https://github.com/FIAF/preservation-restoration-events/raw/refs/heads/main/Preservation_Restoration%20Events%20and%20Documentation%20of%20workflow.xlsx), you can find the table.
+Download the table [here](https://github.com/FIAF/preservation-restoration-events/raw/refs/heads/main/Preservation_Restoration%20Events%20and%20Documentation%20of%20workflow.xlsx).
 
 The table is intended to serve as an inspiration for integrating this information into your cataloging and collection management systems. As part of this initiative, the scope and function of Preservation Events entities in the cataloguing and documenting process have been expanded.
 

@@ -12,7 +12,7 @@ The values of controlled vocabularies, as well as the sample data contained in t
 
 The outcomes of the working group's discussions will also be reflected in the upcoming revision of the FIAF Cataloguing Manual.
 
-We invite you to review the results reached by our working group. Your feedback is highly valued—please send your comments to elzbieta.wysocka@fina.gov.pl / cdc@fiaf.org. If you wish to join the working group, do not hesitate to reach out.
+We invite you to review the results reached by our working group. Your feedback is highly valued—please send your comments to elzbieta.wysocka@fina.gov.pl / cdc@fiafnet.org. If you wish to join the working group, do not hesitate to reach out.
 
 **Background of the Project**
 
